@@ -1,9 +1,9 @@
-🤖 AI Chatbot Development using Groq API in Python
+###🤖 AI Chatbot Development using Groq API in Python
 
 This project demonstrates how to build a ChatGPT-style AI chatbot in Python using the Groq AI API.
 The chatbot accepts user input from the console and streams AI-generated responses in real time, similar to ChatGPT.
 
-🚀 Features
+##🚀 Features
 
 Interactive command-line chatbot
 
@@ -15,7 +15,7 @@ Simple and beginner-friendly Python implementation
 
 Exit commands supported (quit, exit, bye)
 
-🧠 What You’ll Learn
+##🧠 What You’ll Learn
 
 How to set up and use the Groq API in Python
 
@@ -25,7 +25,7 @@ Streaming AI responses in real time
 
 Building a basic conversational AI application
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python
 
@@ -33,7 +33,7 @@ Groq AI API
 
 LLaMA 3.1 (8B Instant Model)
 
-📦 Installation & Setup
+##📦 Installation & Setup
 1️⃣ Clone the repository
 git clone <your-repo-link>
 cd your-project-folder
@@ -58,7 +58,7 @@ client = Groq(api_key="YOUR_API_KEY")
 ▶️ How to Run
 python chatbot.py
 
-💬 Usage
+##💬 Usage
 
 Type your message and press Enter
 
@@ -66,11 +66,11 @@ The chatbot will respond in real time
 
 Type quit, exit, or bye to end the conversation
 
-📌 Example
+##📌 Example
 You: Explain machine learning
 Chatbot: Machine learning is a field of artificial intelligence...
 
-🎯 Use Cases
+##🎯 Use Cases
 
 Beginner AI/ML projects
 
