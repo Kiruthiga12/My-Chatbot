@@ -1,5 +1,5 @@
 from groq import Groq
-client = Groq(api_key= "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")
+client = Groq(api_key= "your openai key ")
 
 while True:
     user_input = input("You: ")
